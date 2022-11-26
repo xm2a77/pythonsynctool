@@ -4,3 +4,4 @@
 使用方法：
 1.在服务器打开open_sync_server.bat,如果是Linux的话使用'python3 -m http.server 80'
 2.在电脑上运行程序，输入服务器IP，等待同步完成
+当然，这个工具似乎并不能同步文件夹（因为还没做）
